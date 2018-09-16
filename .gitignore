@@ -1,4 +1,4 @@
-# npme 디버그 기록
+# npm 디버그 기록
  #npm-debug.log*
 *.log
 
@@ -11,3 +11,7 @@ node-modules
 # 임시 파일
 *.tmp
 *~
+
+# 제외 폴더
+dist/
+public/dist
